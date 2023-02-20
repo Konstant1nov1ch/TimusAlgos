@@ -1,3 +1,5 @@
+//https://acm.timus.ru/problem.aspx?space=1&num=1155 - task
+
 import java.util.Scanner;
 
 public class Timus1155 {
