@@ -1,3 +1,5 @@
+//https://acm.timus.ru/problem.aspx?space=1&num=1296 - task 
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
